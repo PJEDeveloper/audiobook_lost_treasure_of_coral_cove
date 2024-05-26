@@ -1,2 +1,2 @@
-# audiobook_lost_treasure_of_coral_cove
+# Audiobook Lost Treasure of Coral Cove
 Repository for .mp3 file containing the audiobook
